@@ -24,8 +24,12 @@ ipython_config.py
 # KDE directory preferences
 .directory
 regression/data.zip
-classification/churn.zip
-classification/*.csv
+Classification/churn.zip
+Classification/*.csv
+Evaluation/*.csv
+Deployment/*.csv
+Deployment/*.bin
+python
 
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
